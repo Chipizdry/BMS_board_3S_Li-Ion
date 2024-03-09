@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=NetDD1_8 Pin=RT1-1
+Removed Pin From Net: NetName=IP- Pin=RT1-2
+Added Pin To Net: NetName=IP- Pin=RT1-1
+Added Pin To Net: NetName=NetDD1_8 Pin=RT1-2
+Added Room: Name=Batarey

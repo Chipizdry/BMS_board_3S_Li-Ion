@@ -1,0 +1,10 @@
+Added Component: Designator=R50(R-0805)
+Add component (AddParameter): Name = "ComponentDescription"; Value = "Резистор SMD, R-0805, 10MОм, 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentType"; Value = "Резистор SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "R-0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10M"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R50-1
+Added Pin To Net: NetName=P- Pin=R50-2
+Added Member To Class: ClassName=BMS_INV Member=Component R50 10M
+Added Room: Name=BMS_INV

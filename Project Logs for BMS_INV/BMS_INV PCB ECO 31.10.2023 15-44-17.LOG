@@ -1,0 +1,42 @@
+Added Component: Designator=DA?(4-SMD)
+Added Component: Designator=DA?(4-SMD)
+Added Component: Designator=R?(R-0805)
+Add component (AddParameter): Name = "ComponentDescription"; Value = "Ðåçèñòîð SMD, R-0805, 1KÎì, 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentType"; Value = "Ðåçèñòîð SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "R-0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R-0805)
+Add component (AddParameter): Name = "ComponentDescription"; Value = "Ðåçèñòîð SMD, R-0805, 1KÎì, 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentType"; Value = "Ðåçèñòîð SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "R-0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=X?(B2B-XH-A)
+Add component (AddParameter): Name = "ComponentDescription"; Value = "Ðàçú¸ì, B2B-XH-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentTypå"; Value = "Ðàçú¸ì"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND_2 Pin=DA?-2
+Added Pin To Net: NetName=GND_2 Pin=DA?-2
+Added Pin To Net: NetName=GND Pin=DA?-3
+Added Pin To Net: NetName=GND Pin=DA?-3
+Added Pin To Net: NetName=CO Pin=R?-2
+Added Pin To Net: NetName=DO Pin=R?-2
+Added Pin To Net: NetName=CO Pin=X?-1
+Added Pin To Net: NetName=DO Pin=X?-2
+Added Pin To Net: NetName=COIN Pin=DA?-4
+Added Pin To Net: NetName=COIN Pin=DD1-3
+Added Pin To Net: NetName=COIN Pin=R5-1
+Added Net: Name=COIN
+Added Pin To Net: NetName=DOIN Pin=DA?-4
+Added Pin To Net: NetName=DOIN Pin=DD1-2
+Added Pin To Net: NetName=DOIN Pin=R6-1
+Added Net: Name=DOIN
+Added Pin To Net: NetName=NetDA?_1 Pin=DA?-1
+Added Pin To Net: NetName=NetDA?_1 Pin=R?-1
+Added Net: Name=NetDA?_1
+Added Member To Class: ClassName=BMS_INV Member=Component DA? PC817
+Added Member To Class: ClassName=BMS_INV Member=Component DA? PC817
+Added Member To Class: ClassName=BMS_INV Member=Component R? 1K
+Added Member To Class: ClassName=BMS_INV Member=Component R? 1K
+Added Member To Class: ClassName=BMS_INV Member=Component X? B2B-XH-A
+Added Room: Name=BMS_INV

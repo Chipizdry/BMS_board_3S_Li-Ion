@@ -1,0 +1,20 @@
+Added Component: Designator=R48(R-0805)
+Add component (AddParameter): Name = "ComponentDescription"; Value = "Резистор SMD, R-0805, 10KОм, 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentType"; Value = "Резистор SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "R-0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R49(R-0805)
+Add component (AddParameter): Name = "ComponentDescription"; Value = "Резистор SMD, R-0805, 10KОм, 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentType"; Value = "Резистор SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "R-0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VDD Pin=R48-1
+Added Pin To Net: NetName=SCL Pin=R48-2
+Added Pin To Net: NetName=VDD Pin=R49-1
+Added Pin To Net: NetName=SDA Pin=R49-2
+Change Class Name : Old Net Name=Batarey New Net Name=BMS_INV
+Added Member To Class: ClassName=BMS_INV Member=Component R48 10K
+Added Member To Class: ClassName=BMS_INV Member=Component R49 10K
+Added Room: Name=BMS_INV

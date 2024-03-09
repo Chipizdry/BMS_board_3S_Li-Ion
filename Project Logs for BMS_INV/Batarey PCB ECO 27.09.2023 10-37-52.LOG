@@ -1,0 +1,4 @@
+Added Component: Designator=TP2(Test_Point)
+Added Pin To Net: NetName=NetBAT1_2 Pin=TP2-1
+Added Member To Class: ClassName=Batarey Member=Component TP2 Test_Point_PCB
+Added Room: Name=Batarey

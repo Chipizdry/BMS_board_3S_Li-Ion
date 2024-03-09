@@ -1,0 +1,12 @@
+Added Component: Designator=VT4(TO-220-5)
+Added Component: Designator=VT5(TO-220-5)
+Added Pin To Net: NetName=NetDD1_11 Pin=VT4-1
+Added Pin To Net: NetName=P- Pin=VT4-3
+Added Pin To Net: NetName=NetR15_1 Pin=VT5-1
+Added Pin To Net: NetName=NetDD1_14 Pin=VT5-3
+Added Pin To Net: NetName=NetVT4_2 Pin=VT4-2
+Added Pin To Net: NetName=NetVT4_2 Pin=VT5-2
+Added Net: Name=NetVT4_2
+Added Member To Class: ClassName=Batarey Member=Component VT4 MOSFET-N-GDS
+Added Member To Class: ClassName=Batarey Member=Component VT5 MOSFET-N-GDS
+Added Room: Name=Batarey

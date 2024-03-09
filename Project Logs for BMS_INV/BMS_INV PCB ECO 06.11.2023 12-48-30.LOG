@@ -1,0 +1,32 @@
+Removed Pin From Net: NetName=GND_2 Pin=C4-1
+Removed Pin From Net: NetName=GND_2 Pin=C10-1
+Removed Pin From Net: NetName=GND_2 Pin=C11-2
+Removed Pin From Net: NetName=GND_2 Pin=DD3-3
+Removed Pin From Net: NetName=GND_2 Pin=DD4-5
+Removed Pin From Net: NetName=NetR18_2 Pin=VT6-2
+Removed Pin From Net: NetName=P+ Pin=VT6-3
+Removed Pin From Net: NetName=NetR21_2 Pin=VT7-2
+Removed Pin From Net: NetName=NetBAT1_2 Pin=VT7-3
+Removed Pin From Net: NetName=NetR24_2 Pin=VT8-2
+Removed Pin From Net: NetName=NetBAT2_2 Pin=VT8-3
+Removed Pin From Net: NetName=GND_2 Pin=VT9-2
+Removed Pin From Net: NetName=GND_2 Pin=VT10-2
+Removed Pin From Net: NetName=GND_2 Pin=VT11-2
+Change Component Comment : Designator=VT6 Old Comment=MOSFET-N-GSD New Comment=MOSFET-P-CH
+Change Component Comment : Designator=VT7 Old Comment=MOSFET-N-GSD New Comment=MOSFET-P-CH
+Change Component Comment : Designator=VT8 Old Comment=MOSFET-N-GSD New Comment=MOSFET-P-CH
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C11-2
+Added Pin To Net: NetName=GND Pin=DD3-3
+Added Pin To Net: NetName=GND Pin=DD4-5
+Added Pin To Net: NetName=P+ Pin=VT6-2
+Added Pin To Net: NetName=NetR18_2 Pin=VT6-3
+Added Pin To Net: NetName=NetBAT1_2 Pin=VT7-2
+Added Pin To Net: NetName=NetR21_2 Pin=VT7-3
+Added Pin To Net: NetName=NetBAT2_2 Pin=VT8-2
+Added Pin To Net: NetName=NetR24_2 Pin=VT8-3
+Added Pin To Net: NetName=GND Pin=VT9-2
+Added Pin To Net: NetName=GND Pin=VT10-2
+Added Pin To Net: NetName=GND Pin=VT11-2
+Added Room: Name=BMS_INV

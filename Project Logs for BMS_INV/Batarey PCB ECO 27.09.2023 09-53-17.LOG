@@ -1,0 +1,65 @@
+Added Component: Designator=TP1(Test_Point)
+Added Component: Designator=TP2(Test_Point)
+Added Component: Designator=TP3(Test_Point)
+Added Component: Designator=TP4(Test_Point)
+Added Component: Designator=TP5(Test_Point)
+Added Component: Designator=TP6(Test_Point)
+Added Component: Designator=TP7(Test_Point)
+Added Component: Designator=TP8(Test_Point)
+Added Component: Designator=TP9(Test_Point)
+Added Component: Designator=TP10(Test_Point)
+Added Component: Designator=TP11(Test_Point)
+Added Component: Designator=TP12(Test_Point)
+Added Component: Designator=TP13(Test_Point)
+Added Component: Designator=TP14(Test_Point)
+Added Component: Designator=TP15(Test_Point)
+Added Component: Designator=TP16(Test_Point)
+Added Component: Designator=TP17(Test_Point)
+Added Component: Designator=TP18(Test_Point)
+Added Component: Designator=TP19(Test_Point)
+Added Component: Designator=TP20(Test_Point)
+Added Component: Designator=TP21(Test_Point)
+Added Pin To Net: NetName=P+ Pin=TP1-1
+Added Pin To Net: NetName=NetBAT1_2 Pin=TP2-1
+Added Pin To Net: NetName=NetBAT2_2 Pin=TP3-1
+Added Pin To Net: NetName=IP- Pin=TP4-1
+Added Pin To Net: NetName=IP- Pin=TP5-1
+Added Pin To Net: NetName=IP- Pin=TP6-1
+Added Pin To Net: NetName=IP- Pin=TP7-1
+Added Pin To Net: NetName=VDD_2 Pin=TP8-1
+Added Pin To Net: NetName=SCL Pin=TP9-1
+Added Pin To Net: NetName=ADDR Pin=TP10-1
+Added Pin To Net: NetName=ALERT/RDY Pin=TP11-1
+Added Pin To Net: NetName=SDA Pin=TP12-1
+Added Pin To Net: NetName=VDD Pin=TP13-1
+Added Pin To Net: NetName=AIN0 Pin=TP14-1
+Added Pin To Net: NetName=AIN3 Pin=TP15-1
+Added Pin To Net: NetName=NetDD4_7 Pin=TP16-1
+Added Pin To Net: NetName=AIN1 Pin=TP17-1
+Added Pin To Net: NetName=AIN2 Pin=TP18-1
+Added Pin To Net: NetName=SDA_2 Pin=TP19-1
+Added Pin To Net: NetName=SCL_2 Pin=TP20-1
+Added Pin To Net: NetName=GND_2 Pin=TP21-1
+Change Net Name : Old Net Name=IP- New Net Name=GND
+Added Member To Class: ClassName=Batarey Member=Component TP1 Test_Point_PCB
+Added Member To Class: ClassName=Batarey Member=Component TP2 Test_Point_PCB
+Added Member To Class: ClassName=Batarey Member=Component TP3 Test_Point_PCB
+Added Member To Class: ClassName=Batarey Member=Component TP4 Test_Point_PCB
+Added Member To Class: ClassName=Batarey Member=Component TP5 Test_Point_PCB
+Added Member To Class: ClassName=Batarey Member=Component TP6 Test_Point_PCB
+Added Member To Class: ClassName=Batarey Member=Component TP7 Test_Point_PCB
+Added Member To Class: ClassName=Batarey Member=Component TP8 Test_Point_PCB
+Added Member To Class: ClassName=Batarey Member=Component TP9 Test_Point_PCB
+Added Member To Class: ClassName=Batarey Member=Component TP10 Test_Point_PCB
+Added Member To Class: ClassName=Batarey Member=Component TP11 Test_Point_PCB
+Added Member To Class: ClassName=Batarey Member=Component TP12 Test_Point_PCB
+Added Member To Class: ClassName=Batarey Member=Component TP13 Test_Point_PCB
+Added Member To Class: ClassName=Batarey Member=Component TP14 Test_Point_PCB
+Added Member To Class: ClassName=Batarey Member=Component TP15 Test_Point_PCB
+Added Member To Class: ClassName=Batarey Member=Component TP16 Test_Point_PCB
+Added Member To Class: ClassName=Batarey Member=Component TP17 Test_Point_PCB
+Added Member To Class: ClassName=Batarey Member=Component TP18 Test_Point_PCB
+Added Member To Class: ClassName=Batarey Member=Component TP19 Test_Point_PCB
+Added Member To Class: ClassName=Batarey Member=Component TP20 Test_Point_PCB
+Added Member To Class: ClassName=Batarey Member=Component TP21 Test_Point_PCB
+Added Room: Name=Batarey

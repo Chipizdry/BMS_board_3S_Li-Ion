@@ -1,0 +1,9 @@
+Added Component: Designator=CN2(Batarey_connector)
+Added Component: Designator=CN3(Batarey_connector)
+Added Pin To Net: NetName=P+ Pin=CN2-1
+Added Pin To Net: NetName=CH Pin=CN2-2
+Added Pin To Net: NetName=P+ Pin=CN3-1
+Added Pin To Net: NetName=CH Pin=CN3-2
+Added Member To Class: ClassName=Batarey Member=Component CN2 BAT_CON
+Added Member To Class: ClassName=Batarey Member=Component CN3 BAT_CON
+Added Room: Name=Batarey

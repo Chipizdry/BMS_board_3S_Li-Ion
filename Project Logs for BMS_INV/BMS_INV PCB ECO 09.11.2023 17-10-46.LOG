@@ -1,0 +1,55 @@
+Removed Pin From Net: NetName=GND Pin=C10-1
+Removed Pin From Net: NetName=GND Pin=DD3-3
+Added Component: Designator=C12(CAP-0603)
+Added Component: Designator=DD6(SO8-150)
+Added Component: Designator=R53(RES-0603)
+Added Component: Designator=R54(RES-0603)
+Added Component: Designator=R55(RES-0603)
+Added Component: Designator=R56(RES-0603)
+Added Component: Designator=R57(RES-0603)
+Added Component: Designator=R58(RES-0603)
+Added Component: Designator=R59(RES-0603)
+Added Component: Designator=R60(RES-0603)
+Added Pin To Net: NetName=GND_2 Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=VDD Pin=C12-2
+Added Pin To Net: NetName=GND_2 Pin=DD3-3
+Added Pin To Net: NetName=GND Pin=DD6-4
+Added Pin To Net: NetName=SDA Pin=DD6-5
+Added Pin To Net: NetName=SCL Pin=DD6-6
+Added Pin To Net: NetName=VDD Pin=DD6-8
+Added Pin To Net: NetName=VDD Pin=R53-1
+Added Pin To Net: NetName=VDD Pin=R54-2
+Added Pin To Net: NetName=VDD Pin=R55-2
+Added Pin To Net: NetName=VDD Pin=R56-2
+Added Pin To Net: NetName=GND Pin=R57-2
+Added Pin To Net: NetName=GND Pin=R58-1
+Added Pin To Net: NetName=GND Pin=R59-1
+Added Pin To Net: NetName=GND Pin=R60-1
+Added Pin To Net: NetName=A0 Pin=DD6-1
+Added Pin To Net: NetName=A0 Pin=R54-1
+Added Pin To Net: NetName=A0 Pin=R58-2
+Added Net: Name=A0
+Added Pin To Net: NetName=A1 Pin=DD6-2
+Added Pin To Net: NetName=A1 Pin=R55-1
+Added Pin To Net: NetName=A1 Pin=R59-2
+Added Net: Name=A1
+Added Pin To Net: NetName=A2 Pin=DD6-3
+Added Pin To Net: NetName=A2 Pin=R56-1
+Added Pin To Net: NetName=A2 Pin=R60-2
+Added Net: Name=A2
+Added Pin To Net: NetName=WP Pin=DD6-7
+Added Pin To Net: NetName=WP Pin=R53-2
+Added Pin To Net: NetName=WP Pin=R57-1
+Added Net: Name=WP
+Added Member To Class: ClassName=BMS_INV Member=Component C12 CAP-NON-POLAR
+Added Member To Class: ClassName=BMS_INV Member=Component DD6 24C256
+Added Member To Class: ClassName=BMS_INV Member=Component R53 10K
+Added Member To Class: ClassName=BMS_INV Member=Component R54 10K
+Added Member To Class: ClassName=BMS_INV Member=Component R55 10K
+Added Member To Class: ClassName=BMS_INV Member=Component R56 10K
+Added Member To Class: ClassName=BMS_INV Member=Component R57 10K
+Added Member To Class: ClassName=BMS_INV Member=Component R58 10K
+Added Member To Class: ClassName=BMS_INV Member=Component R59 10K
+Added Member To Class: ClassName=BMS_INV Member=Component R60 10K
+Added Room: Name=BMS_INV

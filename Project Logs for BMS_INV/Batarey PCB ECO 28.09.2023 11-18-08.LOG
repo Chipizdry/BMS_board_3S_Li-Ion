@@ -1,0 +1,19 @@
+Added Component: Designator=R46(R-2512)
+Add component (AddParameter): Name = "ComponentDescription"; Value = "Резистор SMD, R-2512, 10mОм, 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentType"; Value = "Резистор SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "R-2512"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10m"; VariantName = "[No Variations]"
+Added Component: Designator=R47(R-2512)
+Add component (AddParameter): Name = "ComponentDescription"; Value = "Резистор SMD, R-2512, 10mОм, 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentType"; Value = "Резистор SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "R-2512"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10m"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetDD1_14 Pin=R46-1
+Added Pin To Net: NetName=IP+ Pin=R46-2
+Added Pin To Net: NetName=NetDD1_14 Pin=R47-1
+Added Pin To Net: NetName=IP+ Pin=R47-2
+Added Member To Class: ClassName=Batarey Member=Component R46 10m
+Added Member To Class: ClassName=Batarey Member=Component R47 10m
+Added Room: Name=Batarey

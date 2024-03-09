@@ -1,0 +1,247 @@
+Added Component: Designator=BAT1(21700_BAT)
+Added Component: Designator=BAT2(21700_BAT)
+Added Component: Designator=BAT3(21700_BAT)
+Added Component: Designator=CN1(Batarey_connector)
+Added Component: Designator=CN2(Batarey_connector)
+Added Component: Designator=DD1(TSSOP-28)
+Added Component: Designator=R1(R-0805)
+Add component (AddParameter): Name = "ComponentDescription"; Value = "Резистор SMD, R-0805, *Ом, 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentType"; Value = "Резистор SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "R-0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R2(R-0805)
+Add component (AddParameter): Name = "ComponentDescription"; Value = "Резистор SMD, R-0805, *Ом, 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentType"; Value = "Резистор SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "R-0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R3(R-2512)
+Add component (AddParameter): Name = "ComponentDescription"; Value = "Резистор SMD, R-2512, *Ом, 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentType"; Value = "Резистор SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "R-2512"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R4(R-0805)
+Add component (AddParameter): Name = "ComponentDescription"; Value = "Резистор SMD, R-0805, *Ом, 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentType"; Value = "Резистор SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "R-0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R5(R-0805)
+Add component (AddParameter): Name = "ComponentDescription"; Value = "Резистор SMD, R-0805, *Ом, 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentType"; Value = "Резистор SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "R-0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R6(R-0805)
+Add component (AddParameter): Name = "ComponentDescription"; Value = "Резистор SMD, R-0805, *Ом, 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentType"; Value = "Резистор SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "R-0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R7(R-0805)
+Add component (AddParameter): Name = "ComponentDescription"; Value = "Резистор SMD, R-0805, *Ом, 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentType"; Value = "Резистор SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "R-0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R8(R-2512)
+Add component (AddParameter): Name = "ComponentDescription"; Value = "Резистор SMD, R-2512, *Ом, 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentType"; Value = "Резистор SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "R-2512"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R9(R-0805)
+Add component (AddParameter): Name = "ComponentDescription"; Value = "Резистор SMD, R-0805, *Ом, 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentType"; Value = "Резистор SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "R-0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R10(R-0805)
+Add component (AddParameter): Name = "ComponentDescription"; Value = "Резистор SMD, R-0805, *Ом, 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentType"; Value = "Резистор SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "R-0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R11(R-2512)
+Add component (AddParameter): Name = "ComponentDescription"; Value = "Резистор SMD, R-2512, *Ом, 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentType"; Value = "Резистор SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "R-2512"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R12(R-0805)
+Add component (AddParameter): Name = "ComponentDescription"; Value = "Резистор SMD, R-0805, *Ом, 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentType"; Value = "Резистор SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "R-0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R13(R-0805)
+Add component (AddParameter): Name = "ComponentDescription"; Value = "Резистор SMD, R-0805, *Ом, 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentType"; Value = "Резистор SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "R-0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R14(R-0805)
+Add component (AddParameter): Name = "ComponentDescription"; Value = "Резистор SMD, R-0805, *Ом, 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentType"; Value = "Резистор SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "R-0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R15(R-0805)
+Add component (AddParameter): Name = "ComponentDescription"; Value = "Резистор SMD, R-0805, *Ом, 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentType"; Value = "Резистор SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "R-0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R16(R-0805)
+Add component (AddParameter): Name = "ComponentDescription"; Value = "Резистор SMD, R-0805, *Ом, 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentType"; Value = "Резистор SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "R-0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R17(R-2512)
+Add component (AddParameter): Name = "ComponentDescription"; Value = "Резистор SMD, R-2512, *Ом, 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentType"; Value = "Резистор SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "R-2512"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=X1(XT60-F AMASS)
+Add component (AddParameter): Name = "ComponentDescription"; Value = "Разъём, XT60-F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentTypе"; Value = "Разъём"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetBAT1_2 Pin=BAT1-2
+Added Pin To Net: NetName=NetBAT1_2 Pin=BAT1-4
+Added Pin To Net: NetName=NetBAT1_2 Pin=BAT1-6
+Added Pin To Net: NetName=NetBAT1_2 Pin=BAT1-8
+Added Pin To Net: NetName=NetBAT1_2 Pin=BAT2-1
+Added Pin To Net: NetName=NetBAT2_2 Pin=BAT2-2
+Added Pin To Net: NetName=NetBAT1_2 Pin=BAT2-3
+Added Pin To Net: NetName=NetBAT2_2 Pin=BAT2-4
+Added Pin To Net: NetName=NetBAT1_2 Pin=BAT2-5
+Added Pin To Net: NetName=NetBAT2_2 Pin=BAT2-6
+Added Pin To Net: NetName=NetBAT1_2 Pin=BAT2-7
+Added Pin To Net: NetName=NetBAT2_2 Pin=BAT2-8
+Added Pin To Net: NetName=NetBAT2_2 Pin=BAT3-1
+Added Pin To Net: NetName=GND Pin=BAT3-2
+Added Pin To Net: NetName=NetBAT2_2 Pin=BAT3-3
+Added Pin To Net: NetName=GND Pin=BAT3-4
+Added Pin To Net: NetName=NetBAT2_2 Pin=BAT3-5
+Added Pin To Net: NetName=GND Pin=BAT3-6
+Added Pin To Net: NetName=NetBAT2_2 Pin=BAT3-7
+Added Pin To Net: NetName=GND Pin=BAT3-8
+Added Pin To Net: NetName=GND Pin=DD1-16
+Added Pin To Net: NetName=GND Pin=DD1-17
+Added Pin To Net: NetName=GND Pin=DD1-19
+Added Pin To Net: NetName=GND Pin=DD1-21
+Added Pin To Net: NetName=NetR4_2 Pin=R4-2
+Added Pin To Net: NetName=NetBAT1_2 Pin=R7-2
+Added Pin To Net: NetName=NetBAT1_2 Pin=R8-2
+Added Pin To Net: NetName=NetBAT2_2 Pin=R10-2
+Added Pin To Net: NetName=NetBAT2_2 Pin=R11-2
+Added Pin To Net: NetName=GND Pin=R12-1
+Added Pin To Net: NetName=NetR13_2 Pin=R13-2
+Added Pin To Net: NetName=GND Pin=R17-2
+Added Pin To Net: NetName=NetC1_2 Pin=DD1-28
+Added Pin To Net: NetName=NetC1_2 Pin=R1-1
+Added Pin To Net: NetName=NetC1_2 Pin=R5-2
+Added Pin To Net: NetName=NetC1_2 Pin=R6-2
+Added Net: Name=NetC1_2
+Added Pin To Net: NetName=NetC2_2 Pin=DD1-4
+Added Net: Name=NetC2_2
+Added Pin To Net: NetName=NetC3_2 Pin=DD1-27
+Added Pin To Net: NetName=NetC3_2 Pin=R2-1
+Added Net: Name=NetC3_2
+Added Pin To Net: NetName=NetC4_1 Pin=DD1-5
+Added Net: Name=NetC4_1
+Added Pin To Net: NetName=NetC5_2 Pin=DD1-25
+Added Pin To Net: NetName=NetC5_2 Pin=R7-1
+Added Net: Name=NetC5_2
+Added Pin To Net: NetName=NetC6_1 Pin=DD1-6
+Added Net: Name=NetC6_1
+Added Pin To Net: NetName=NetC7_1 Pin=DD1-7
+Added Net: Name=NetC7_1
+Added Pin To Net: NetName=NetC8_2 Pin=DD1-23
+Added Pin To Net: NetName=NetC8_2 Pin=R10-1
+Added Net: Name=NetC8_2
+Added Pin To Net: NetName=NetDD1_2 Pin=DD1-2
+Added Pin To Net: NetName=NetDD1_2 Pin=R6-1
+Added Net: Name=NetDD1_2
+Added Pin To Net: NetName=NetDD1_3 Pin=DD1-3
+Added Pin To Net: NetName=NetDD1_3 Pin=R5-1
+Added Net: Name=NetDD1_3
+Added Pin To Net: NetName=NetDD1_9 Pin=DD1-9
+Added Pin To Net: NetName=NetDD1_9 Pin=R12-2
+Added Net: Name=NetDD1_9
+Added Pin To Net: NetName=NetDD1_10 Pin=DD1-10
+Added Pin To Net: NetName=NetDD1_10 Pin=R14-1
+Added Net: Name=NetDD1_10
+Added Pin To Net: NetName=NetDD1_11 Pin=DD1-11
+Added Pin To Net: NetName=NetDD1_11 Pin=R16-1
+Added Net: Name=NetDD1_11
+Added Pin To Net: NetName=NetDD1_12 Pin=DD1-12
+Added Pin To Net: NetName=NetDD1_12 Pin=R15-2
+Added Net: Name=NetDD1_12
+Added Pin To Net: NetName=NetDD1_14 Pin=DD1-14
+Added Pin To Net: NetName=NetDD1_14 Pin=R17-1
+Added Net: Name=NetDD1_14
+Added Pin To Net: NetName=NetDD1_22 Pin=DD1-22
+Added Pin To Net: NetName=NetDD1_22 Pin=R13-1
+Added Net: Name=NetDD1_22
+Added Pin To Net: NetName=NetDD1_24 Pin=DD1-24
+Added Pin To Net: NetName=NetDD1_24 Pin=R9-1
+Added Net: Name=NetDD1_24
+Added Pin To Net: NetName=NetDD1_26 Pin=DD1-26
+Added Pin To Net: NetName=NetDD1_26 Pin=R4-1
+Added Net: Name=NetDD1_26
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Net: Name=NetR3_1
+Added Pin To Net: NetName=NetR8_1 Pin=R8-1
+Added Net: Name=NetR8_1
+Added Pin To Net: NetName=NetR9_2 Pin=R9-2
+Added Net: Name=NetR9_2
+Added Pin To Net: NetName=NetR11_1 Pin=R11-1
+Added Net: Name=NetR11_1
+Added Pin To Net: NetName=NetR15_1 Pin=R15-1
+Added Net: Name=NetR15_1
+Added Pin To Net: NetName=P+ Pin=BAT1-1
+Added Pin To Net: NetName=P+ Pin=BAT1-3
+Added Pin To Net: NetName=P+ Pin=BAT1-5
+Added Pin To Net: NetName=P+ Pin=BAT1-7
+Added Pin To Net: NetName=P+ Pin=CN1-1
+Added Pin To Net: NetName=P+ Pin=CN2-1
+Added Pin To Net: NetName=P+ Pin=R1-2
+Added Pin To Net: NetName=P+ Pin=R2-2
+Added Pin To Net: NetName=P+ Pin=R3-2
+Added Pin To Net: NetName=P+ Pin=X1-1
+Added Net: Name=P+
+Added Pin To Net: NetName=P- Pin=CN1-2
+Added Pin To Net: NetName=P- Pin=CN2-2
+Added Pin To Net: NetName=P- Pin=R14-2
+Added Pin To Net: NetName=P- Pin=R16-2
+Added Pin To Net: NetName=P- Pin=X1-2
+Added Net: Name=P-
+Added Member To Class: ClassName=Batarey Member=Component BAT1 21700_Bat
+Added Member To Class: ClassName=Batarey Member=Component BAT2 21700_Bat
+Added Member To Class: ClassName=Batarey Member=Component BAT3 21700_Bat
+Added Member To Class: ClassName=Batarey Member=Component CN1 BAT_CON
+Added Member To Class: ClassName=Batarey Member=Component CN2 BAT_CON
+Added Member To Class: ClassName=Batarey Member=Component DD1 BM3451
+Added Member To Class: ClassName=Batarey Member=Component R1 *
+Added Member To Class: ClassName=Batarey Member=Component R2 *
+Added Member To Class: ClassName=Batarey Member=Component R3 *
+Added Member To Class: ClassName=Batarey Member=Component R4 *
+Added Member To Class: ClassName=Batarey Member=Component R5 *
+Added Member To Class: ClassName=Batarey Member=Component R6 *
+Added Member To Class: ClassName=Batarey Member=Component R7 *
+Added Member To Class: ClassName=Batarey Member=Component R8 *
+Added Member To Class: ClassName=Batarey Member=Component R9 *
+Added Member To Class: ClassName=Batarey Member=Component R10 *
+Added Member To Class: ClassName=Batarey Member=Component R11 *
+Added Member To Class: ClassName=Batarey Member=Component R12 *
+Added Member To Class: ClassName=Batarey Member=Component R13 *
+Added Member To Class: ClassName=Batarey Member=Component R14 *
+Added Member To Class: ClassName=Batarey Member=Component R15 *
+Added Member To Class: ClassName=Batarey Member=Component R16 *
+Added Member To Class: ClassName=Batarey Member=Component R17 *
+Added Member To Class: ClassName=Batarey Member=Component X1 XT60-F
+Added Room: Name=Batarey

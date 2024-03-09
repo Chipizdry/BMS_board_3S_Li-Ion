@@ -1,0 +1,12 @@
+Added Component: Designator=DD3(10VSSOP)
+Added Pin To Net: NetName=ADDR Pin=DD3-1
+Added Pin To Net: NetName=ALERT/RDY Pin=DD3-2
+Added Pin To Net: NetName=GND_2 Pin=DD3-3
+Added Pin To Net: NetName=AIN0 Pin=DD3-4
+Added Pin To Net: NetName=AIN1 Pin=DD3-5
+Added Pin To Net: NetName=AIN2 Pin=DD3-6
+Added Pin To Net: NetName=AIN3 Pin=DD3-7
+Added Pin To Net: NetName=VDD Pin=DD3-8
+Added Pin To Net: NetName=SDA Pin=DD3-9
+Added Pin To Net: NetName=SCL Pin=DD3-10
+Added Member To Class: ClassName=Batarey Member=Component DD3 ADS1115

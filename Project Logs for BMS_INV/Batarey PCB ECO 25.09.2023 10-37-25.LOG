@@ -1,0 +1,7 @@
+Added Component: Designator=X2(XT60-F AMASS)
+Add component (AddParameter): Name = "ComponentDescription"; Value = "Ðàçú¸ì, XT60-F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentTypå"; Value = "Ðàçú¸ì"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=P- Pin=X2-1
+Added Pin To Net: NetName=P+ Pin=X2-2
+Added Member To Class: ClassName=Batarey Member=Component X2 XT60-F
+Added Room: Name=Batarey

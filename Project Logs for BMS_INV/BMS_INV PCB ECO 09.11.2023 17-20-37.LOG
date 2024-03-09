@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND Pin=C10-1
+Removed Pin From Net: NetName=GND_2 Pin=DD3-3
+Added Pin To Net: NetName=GND_2 Pin=C10-1
+Added Pin To Net: NetName=GND Pin=DD3-3
+Added Room: Name=BMS_INV

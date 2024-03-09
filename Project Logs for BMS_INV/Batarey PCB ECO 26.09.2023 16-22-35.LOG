@@ -1,0 +1,5 @@
+Added Component: Designator=RT1(NTC_MF52)
+Added Pin To Net: NetName=IP- Pin=RT1-1
+Added Pin To Net: NetName=NetDD1_8 Pin=RT1-2
+Added Member To Class: ClassName=Batarey Member=Component RT1 RES-TEMP
+Added Room: Name=Batarey

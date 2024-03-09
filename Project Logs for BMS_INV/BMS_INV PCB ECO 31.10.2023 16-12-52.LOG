@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=VDD_2 Pin=P1-1
+Added Pin To Net: NetName=SCL_2 Pin=P1-3
+Added Pin To Net: NetName=SDA_2 Pin=P1-4
+Added Room: Name=BMS_INV

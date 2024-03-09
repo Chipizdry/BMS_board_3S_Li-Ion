@@ -1,0 +1,13 @@
+../Core/Src/ADS1115.c:120:13:prepareConfigFrame	1
+../Core/Src/ADS1115.c:19:19:ADS1115_init	1
+../Core/Src/ADS1115.c:27:6:ADS1115_deinit	1
+../Core/Src/ADS1115.c:31:6:ADS1115_updateConfig	1
+../Core/Src/ADS1115.c:40:6:ADS1115_updateI2Chandler	1
+../Core/Src/ADS1115.c:44:6:ADS1115_updateAddress	1
+../Core/Src/ADS1115.c:60:9:ADS1115_getData	2
+../Core/Src/ADS1115.c:48:9:ADS1115_oneShotMeasure	1
+../Core/Src/ADS1115.c:76:6:ADS1115_setThresholds	1
+../Core/Src/ADS1115.c:92:6:ADS1115_flushData	1
+../Core/Src/ADS1115.c:96:6:ADS1115_setConversionReadyPin	1
+../Core/Src/ADS1115.c:100:6:ADS1115_startContinousMode	1
+../Core/Src/ADS1115.c:111:6:ADS1115_stopContinousMode	1

@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=NetR3_1 Pin=VT1-2
+Removed Pin From Net: NetName=NetBAT1_2 Pin=VT1-3
+Removed Pin From Net: NetName=NetR8_1 Pin=VT2-2
+Removed Pin From Net: NetName=NetBAT2_2 Pin=VT2-3
+Removed Pin From Net: NetName=NetR11_1 Pin=VT3-2
+Removed Pin From Net: NetName=IP- Pin=VT3-3
+Change Component Footprint: Designator=VT1 Old Footprint=TO-220-5 New Footprint=SOT23-3
+Change Component Footprint: Designator=VT2 Old Footprint=TO-220-5 New Footprint=SOT23-3
+Change Component Footprint: Designator=VT3 Old Footprint=TO-220-5 New Footprint=SOT23-3
+Change Component Comment : Designator=VT1 Old Comment=MOSFET-N-GDS New Comment=MOSFET-N-GSD
+Change Component Comment : Designator=VT2 Old Comment=MOSFET-N-GDS New Comment=MOSFET-N-GSD
+Change Component Comment : Designator=VT3 Old Comment=MOSFET-N-GDS New Comment=MOSFET-N-GSD
+Added Pin To Net: NetName=NetBAT1_2 Pin=VT1-2
+Added Pin To Net: NetName=NetR3_1 Pin=VT1-3
+Added Pin To Net: NetName=NetBAT2_2 Pin=VT2-2
+Added Pin To Net: NetName=NetR8_1 Pin=VT2-3
+Added Pin To Net: NetName=IP- Pin=VT3-2
+Added Pin To Net: NetName=NetR11_1 Pin=VT3-3
+Added Room: Name=Batarey

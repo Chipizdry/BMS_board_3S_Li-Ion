@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=NetC6_1 Pin=DD1-6
+Removed Pin From Net: NetName=NetC8_2 Pin=DD1-23
+Removed Pin From Net: NetName=NetC5_2 Pin=DD1-25
+Removed Pin From Net: NetName=NetC5_2 Pin=R7-1
+Removed Pin From Net: NetName=NetC8_2 Pin=R10-1
+Added Pin To Net: NetName=NetC5_2 Pin=DD1-5
+Added Pin To Net: NetName=NetC8_2 Pin=DD1-7
+Added Pin To Net: NetName=NetC6_1 Pin=DD1-25
+Added Pin To Net: NetName=NetC6_1 Pin=R7-1
+Change Net Name : Old Net Name=NetC1_2 New Net Name=NetC2_1
+Added Pin To Net: NetName=NetC3_1 Pin=DD1-27
+Added Pin To Net: NetName=NetC3_1 Pin=R2-1
+Added Net: Name=NetC3_1
+Added Pin To Net: NetName=NetC4_2 Pin=DD1-4
+Added Net: Name=NetC4_2
+Added Pin To Net: NetName=NetC7_2 Pin=DD1-6
+Added Net: Name=NetC7_2
+Added Pin To Net: NetName=NetC9_1 Pin=DD1-23
+Added Pin To Net: NetName=NetC9_1 Pin=R10-1
+Added Net: Name=NetC9_1
+Added Room: Name=Batarey

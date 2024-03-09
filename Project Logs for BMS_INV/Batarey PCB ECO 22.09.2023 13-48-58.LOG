@@ -1,0 +1,31 @@
+Added Component: Designator=BAT1(21700_BAT)
+Added Component: Designator=BAT2(21700_BAT)
+Added Component: Designator=BAT3(21700_BAT)
+Added Pin To Net: NetName=P+ Pin=BAT1-1
+Added Pin To Net: NetName=NetBAT1_2 Pin=BAT1-2
+Added Pin To Net: NetName=P+ Pin=BAT1-3
+Added Pin To Net: NetName=NetBAT1_2 Pin=BAT1-4
+Added Pin To Net: NetName=P+ Pin=BAT1-5
+Added Pin To Net: NetName=NetBAT1_2 Pin=BAT1-6
+Added Pin To Net: NetName=P+ Pin=BAT1-7
+Added Pin To Net: NetName=NetBAT1_2 Pin=BAT1-8
+Added Pin To Net: NetName=NetBAT1_2 Pin=BAT2-1
+Added Pin To Net: NetName=NetBAT2_2 Pin=BAT2-2
+Added Pin To Net: NetName=NetBAT1_2 Pin=BAT2-3
+Added Pin To Net: NetName=NetBAT2_2 Pin=BAT2-4
+Added Pin To Net: NetName=NetBAT1_2 Pin=BAT2-5
+Added Pin To Net: NetName=NetBAT2_2 Pin=BAT2-6
+Added Pin To Net: NetName=NetBAT1_2 Pin=BAT2-7
+Added Pin To Net: NetName=NetBAT2_2 Pin=BAT2-8
+Added Pin To Net: NetName=NetBAT2_2 Pin=BAT3-1
+Added Pin To Net: NetName=GND Pin=BAT3-2
+Added Pin To Net: NetName=NetBAT2_2 Pin=BAT3-3
+Added Pin To Net: NetName=GND Pin=BAT3-4
+Added Pin To Net: NetName=NetBAT2_2 Pin=BAT3-5
+Added Pin To Net: NetName=GND Pin=BAT3-6
+Added Pin To Net: NetName=NetBAT2_2 Pin=BAT3-7
+Added Pin To Net: NetName=GND Pin=BAT3-8
+Added Member To Class: ClassName=Batarey Member=Component BAT1 21700_Bat
+Added Member To Class: ClassName=Batarey Member=Component BAT2 21700_Bat
+Added Member To Class: ClassName=Batarey Member=Component BAT3 21700_Bat
+Added Room: Name=Batarey

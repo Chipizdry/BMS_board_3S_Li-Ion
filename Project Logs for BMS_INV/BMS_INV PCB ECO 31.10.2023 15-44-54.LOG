@@ -1,0 +1,12 @@
+Change Component Designator: OldDesignator=DA? NewDesignator=DA1
+Change Component Designator: OldDesignator=DA? NewDesignator=DA2
+Change Component Designator: OldDesignator=R? NewDesignator=R51
+Change Component Designator: OldDesignator=R? NewDesignator=R52
+Change Component Designator: OldDesignator=X? NewDesignator=X5
+Change Net Name : Old Net Name=NetDA?_1 New Net Name=NetDA2_1
+Added Pin To Net: NetName=NetDA1_1 Pin=DA1-1
+Added Pin To Net: NetName=NetDA1_1 Pin=R51-1
+Added Net: Name=NetDA1_1
+Added Member To Class: ClassName=BMS_INV Member=Component DA1 PC817
+Added Member To Class: ClassName=BMS_INV Member=Component R52 1K
+Added Room: Name=BMS_INV

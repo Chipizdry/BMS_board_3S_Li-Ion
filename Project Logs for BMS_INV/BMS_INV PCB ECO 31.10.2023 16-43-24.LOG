@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=CO Pin=R51-2
+Removed Pin From Net: NetName=DO Pin=R52-2
+Added Pin To Net: NetName=CO_EXT Pin=R51-2
+Added Pin To Net: NetName=DO_EXT Pin=R52-2
+Added Room: Name=BMS_INV
